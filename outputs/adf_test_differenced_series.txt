@@ -1,0 +1,9 @@
+Augmented Dickey-Fuller Test Results on Differenced Series
+ADF Statistic      : -8.8925
+p-value            : 0.0000
+Critical Values    :
+  1%: -3.4338
+  5%: -2.8630
+  10%: -2.5676
+
+🟢 The series is likely STATIONARY (reject H0).
