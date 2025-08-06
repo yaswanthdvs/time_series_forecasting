@@ -79,7 +79,7 @@ The project follows a structured approach to time-series forecasting:
       - RMSE: 0.6444
       - R²: 0.9622
 
-   ![Predicted vs Acutal plot](plots/xgb_pred_vs_actual.jpg)
+   ![Predicted vs Acutal plot](plots/predicted_actual_xgboost.jpg)
 
    - Residual analysis and SARIMA comparison omitted to focus on ML workflow.
 
