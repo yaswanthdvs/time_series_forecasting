@@ -1,14 +1,2 @@
 # Python
 __pycache__/
-*.pyc
-.ipynb_checkpoints/
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.env
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
